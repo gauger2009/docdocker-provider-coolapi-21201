@@ -3,7 +3,8 @@ package com.gauge.docdocker.dao;
 
 import java.util.List;
 
-import com.gauge.viewmodel.CoolApi;
+
+import com.gauge.docdocker.vm.CoolApi;
 import org.apache.ibatis.annotations.Mapper;
 
 

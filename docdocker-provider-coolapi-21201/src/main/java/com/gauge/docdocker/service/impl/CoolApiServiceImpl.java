@@ -2,7 +2,8 @@ package com.gauge.docdocker.service.impl;
 
 import com.gauge.docdocker.dao.ICoolApiDAO;
 import com.gauge.docdocker.service.ICoolApiService;
-import com.gauge.viewmodel.CoolApi;
+
+import com.gauge.docdocker.vm.CoolApi;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

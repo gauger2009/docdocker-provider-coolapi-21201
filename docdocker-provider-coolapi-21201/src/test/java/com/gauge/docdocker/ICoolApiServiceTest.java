@@ -5,7 +5,8 @@ import static org.junit.Assert.fail;
 import javax.annotation.Resource;
 
 import com.gauge.docdocker.service.ICoolApiService;
-import com.gauge.viewmodel.CoolApi;
+
+import com.gauge.docdocker.vm.CoolApi;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

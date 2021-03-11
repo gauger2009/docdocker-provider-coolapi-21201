@@ -1,7 +1,9 @@
 package com.gauge.docdocker.service;
 
+import com.gauge.docdocker.vm.CoolApi;
+
 import java.util.List;
-import  com.gauge.viewmodel.CoolApi;
+
 
 
 public interface ICoolApiService {
